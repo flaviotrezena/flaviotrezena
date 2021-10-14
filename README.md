@@ -1,3 +1,5 @@
+I'm a software engineer, experienced in developing web applications with Java, Spring Boot, Oracle and Angular. I have some experience in developing mobile applications using Android and Ionic.
+
 🌱 I’m currently learning about Machine Learning, Pyton and Pandas.
 
 <a href="https://github.com/flaviotrezena" alt="github" target="_blank">
