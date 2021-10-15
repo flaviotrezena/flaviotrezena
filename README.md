@@ -1,6 +1,6 @@
 I'm a software engineer, experienced in developing web applications with Java, Spring Boot, Oracle and Angular. I have some experience in developing mobile applications using Android and Ionic.
 
-🌱 I’m currently learning about BigQuery, Machine Learning, Pyton and Pandas.
+🌱 I’m currently learning about BigQuery, Machine Learning, Pyton and Pandas. I will post here my studies results.
 
 <a href="https://github.com/flaviotrezena" alt="github" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
