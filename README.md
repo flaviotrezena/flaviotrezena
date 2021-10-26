@@ -14,3 +14,14 @@ I'm a software engineer, experienced in developing web applications with Java, S
 <img src="https://img.shields.io/badge/kaggle-%230077B5.svg?&style=flat-square&logo=kaggle&logoColor=white">
 </a>
 
+<a href="#" alt="python" target="_blank">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+
+<a href="#" alt="NodeJs" target="_blank">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+</a>
+
+<a href="#" alt="Java" target="_blank">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+</a>
